@@ -2,7 +2,7 @@ Hi everyone! My name is Professor Corey Leong. I teach cloud computing courses a
 
 From there, I worked at CenturyLink in Winter Park as a Java Developer. After a couple of years working at a telecom, I went to work for Oracle as a senior curriculum developer in the Linux and Virtualization area. I then went back to school and attended UCF graduate school earning three master degrees: MNM in nonprofit management, MA in instructional design & technology, and MS in modeling and simulation. At the moment, I am finishing up my doctorate degree at UCF in curriculum and instruction focusing on the impact of cognitive load on cybersecurity and will finish in the summer with my Doctorate of Education (EdD). 
 
-Before joining Valencia as a professor, I did contract work at Google as a writer on their upcoming cybersecurity certification and was also contracted at IBM to develop content for some of their Coursera courses. I currently live in Kissimmee with my girlfriend. We both enjoy attending Orlando Magic basketball games as season ticket holders and love to travel and attend wine tasting events.
+Before joining Valencia as a professor, I did contract work at Google as a writer on the Google cybersecurity certification and was also contracted at IBM to develop content for some of their Coursera courses. I currently live in Kissimmee with my family. We enjoy attending Orlando Magic basketball games and love to travel and attend wine tasting events.
 
 I look forward to meeting everyone and learning about individual goals and journeys as we begin this semester.
 
